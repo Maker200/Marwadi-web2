@@ -1,0 +1,13 @@
+
+h1{
+  font-size: 32px;
+  color: #333;
+  justify-items: center;
+  font-weight: bold;
+  background-color:  darkkhaki;
+  display: flex;
+}
+
+.bag{
+background-image: url("bacc.jpg");
+}
